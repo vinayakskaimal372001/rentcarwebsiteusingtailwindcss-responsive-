@@ -1,0 +1,24 @@
+.man{
+    text-shadow: #ffffff 0 0 2px;
+
+}
+.glass{
+
+    background-color: rgba(255,255,255,0.3);
+    filter: blur(8px);
+}
+
+.transition-opacity {
+    transition: opacity 0.3s ease;
+  }
+  .transition-transform {
+    transition: transform 0.3s ease;
+  }
+
+  img{
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.7));
+  }
+  .but{
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.7));
+
+  }
